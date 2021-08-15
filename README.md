@@ -1,2 +1,2 @@
 # Spring_blog
-Basic blog on Spring with maven repository
+Basic blog on Spring with maven repository && MVC architecture
